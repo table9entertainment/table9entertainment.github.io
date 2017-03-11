@@ -153,9 +153,7 @@ section.desc a{
 }
 
 section.desc a:hover, a:active, a:focus{
-    text-decoration: none;
-    text-transform: uppercase;
-    transition-duration: 2s;
+   
 }
 
 ul{
