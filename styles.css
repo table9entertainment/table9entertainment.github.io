@@ -124,6 +124,10 @@ section.content:hover{
     transition-duration: 2s;
     
 }
+section.content a{
+    color: #800000
+   
+}
 
 section.banner{
     margin: 50px;
