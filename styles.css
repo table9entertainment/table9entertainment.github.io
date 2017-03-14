@@ -176,3 +176,20 @@ footer{
     text-align: center;
     color: #ffffff;
 }
+#column1 {
+    color: #ffffff
+}
+
+#column2 {
+    color: #ffffff
+}
+
+#column3 {
+    color: #ffffff
+}
+
+.about {
+    margin-left: 500px;
+    font-size: 20px;
+}
+
