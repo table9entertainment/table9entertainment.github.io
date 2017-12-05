@@ -39,9 +39,12 @@ div.pic{
     
 }
 
-
+div.left{
+    margin: auto;
+    background-image: url(images/misc2.jpg);
+    
    
-
+}
 
 hr{
 margin-bottom: 30px;
@@ -227,4 +230,5 @@ footer{
     margin-left: 500px;
     font-size: 20px;
 }
+
 
